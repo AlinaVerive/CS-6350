@@ -26,11 +26,6 @@ The notebook will display a DataFrame showing:
   Training error (Train Error),
   Testing error (Test Error).
 
-# Example output:
-Heuristic	Max Depth	Train Error	Test Error
-information_gain	1	0.15	0.17
-gini_index	2	0.12	0.15
-
 # Customizing
 The code can be modified to:
   Adjust the heuristic function by selecting a different option in the heuristics dictionary.
